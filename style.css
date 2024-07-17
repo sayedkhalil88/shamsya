@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #F6FB7A;
+}
+
+.img-fluid { 
+    border-radius: 20px;
+}
+h1 ,.featuers h2 , .featuers h3{
+        font-family: "Caveat Brush", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
+
